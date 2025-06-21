@@ -19,8 +19,8 @@ In your `package.json` add the following, `"type": "module"`.
 # Example Usage
 
 ```js
-import { runnerUp } from '@sarikmansuri/array-hacks';
+import { secondMax } from '@sarikmansuri/array-hacks';
 
 let arr = [1, 4, 2, 5, 3];
-console.log(runnerUp(arr)); // Output : 4
+console.log(secondMax(arr)); // Output : 4
 ```
