@@ -1,0 +1,32 @@
+{
+  "name": "@sarikmansuri/array-hacks",
+  "version": "1.0.4",
+  "description": "Array helper functions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarikmansuri/array-hacks.git"
+  },
+  "keywords": [
+    "array-hacks",
+    "array",
+    "javascript-array",
+    "array-helpers"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "author": {
+    "name": "Sarik Mansuri",
+    "email": "sarikmansuri1230@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarikmansuri/array-hacks/issues"
+  },
+  "homepage": "https://github.com/sarikmansuri/array-hacks#readme"
+}
