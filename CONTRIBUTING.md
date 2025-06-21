@@ -28,7 +28,7 @@ function newFunction(param) {
 
 ```javascript
 // README.md
-import { newFunction } from @sarikmansuri/array-hacks;
+import { newFunction } from @sarikmansuri/array-helper;
 
 console.log(newFunction(param)); // Output
 ```

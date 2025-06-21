@@ -1,11 +1,11 @@
-# array-hacks
+# array-helper
 
 Array helper functions to manage and manipulate arrays
 
 # Installation
 
 ```cd
-npm i @sarikmansuri/array-hacks
+npm i @sarikmansuri/array-helper
 ```
 
 # Contributing
@@ -19,7 +19,7 @@ In your `package.json` add the following, `"type": "module"`.
 # Example Usage
 
 ```js
-import { secondMax } from '@sarikmansuri/array-hacks';
+import { secondMax } from '@sarikmansuri/array-helper';
 
 let arr = [1, 4, 2, 5, 3];
 console.log(secondMax(arr)); // Output : 4
